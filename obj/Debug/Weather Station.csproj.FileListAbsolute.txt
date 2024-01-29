@@ -1,0 +1,40 @@
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\Weather Station.exe.config
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\Weather Station.exe
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\Weather Station.pdb
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\obj\Debug\Weather Station.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\obj\Debug\Weather_Station.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\obj\Debug\Weather Station.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\obj\Debug\Weather Station.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\obj\Debug\Weather Station.exe
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\obj\Debug\Weather Station.pdb
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\AGauge.dll
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\obj\Debug\Weather Station.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\obj\Debug\Weather_Station.Weather_Station.resources
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\Google.Protobuf.dll
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\MySimpleConnection.dll
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\MySQLConnection.dll
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\Google.Protobuf.pdb
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\Google.Protobuf.xml
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lenovo\Desktop\Developed\C#\Weather Station\obj\Debug\Weather_Station.datos.resources
